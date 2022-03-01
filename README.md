@@ -11,6 +11,8 @@
 
 ![Asp](https://img.shields.io/badge/.NET-Asp.Net-512BD4)
 
+![SQL](https://img.shields.io/badge/.SQL-Server-512BD4)
+
 ## Find Me
 victoralonsocghnd@gmail.com
 
