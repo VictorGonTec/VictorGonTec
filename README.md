@@ -2,7 +2,7 @@
 ### and I'm a .Net Developer With Experience with C# Typescript, Javascrip, Html Css, and React
 <img src="https://github.com/VictorGonTec/FotosGithub/blob/main/githubImages/imagenProfile3.png" alt="banner" />
 ### Skills
-![C#](https://img.shields.io/badge/C%23-CSharp-512BD4)
+![CSharp](https://img.shields.io/badge/C%23-CSharp-512BD4)
 
 ![Typescript](https://img.shields.io/badge/TS-Typescript-blue)
 
