@@ -1,7 +1,6 @@
 # Hi there 👋 My Name is Victor Gonzales
 ### and I'm a .Net Developer With Experience with C# Typescript, Javascrip, Html Css, and React
-<img src="https://github.com/VictorGonTec/FotosGithub/blob/main/githubImages/bannerGithub.png" alt="banner" />
-
+<img src="https://github.com/VictorGonTec/FotosGithub/blob/main/githubImages/imagenProfile3.png" alt="banner" />
 ### Skills
 ![C#](https://img.shields.io/badge/C%23-CSharp-512BD4)
 
