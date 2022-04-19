@@ -4,15 +4,11 @@
 
 ## Skills
 
-![CSharp](https://img.shields.io/badge/C%23-CSharp-512BD4)
+![CSharp](https://img.shields.io/badge/C%23-CSharp-512BD4) ![Typescript](https://img.shields.io/badge/TS-Typescript-blue)
 
-![Typescript](https://img.shields.io/badge/TS-Typescript-blue)
+![Javascript](https://img.shields.io/badge/JS-Javascript-yellow) ![React](https://img.shields.io/badge/React-js-blue)
 
-![Javascript](https://img.shields.io/badge/JS-Javascript-yellow)
-
-![Asp](https://img.shields.io/badge/.NET-Asp.Net-512BD4)
-
-![SQL](https://img.shields.io/badge/SQL-Server-42a4f5)
+![Asp](https://img.shields.io/badge/.NET-Asp.Net-512BD4) ![SQL](https://img.shields.io/badge/SQL-Server-42a4f5)
 
 ## Find Me
 victoralonsocghnd@gmail.com
