@@ -14,6 +14,10 @@
 [My Email](victoralonsocghnd@gmail.comm)  
 [Linkedin](https://www.linkedin.com/in/victorgonzalespro/)
 
+## My Indie Game Development Portfolio
+[<img src="https://github.com/VictorGonTec/FotosGithub/blob/main/githubImages/imagen2.png" alt="deffendig room" width="350" height="300"/>](https://cgontec.itch.io/deffendingroom)
+[<img src="https://github.com/VictorGonTec/FotosGithub/blob/main/githubImages/robotScrashP1.png" alt="Robot Scrash" width="350" height="300"/>](https://cgontec.itch.io/robotscrash)
+
 
 <!--
 **VictorGonTec/VictorGonTec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
