@@ -4,10 +4,15 @@
 
 ## Skills
 
-![CSharp](https://img.shields.io/badge/C%23-CSharp-512BD4) ![Typescript](https://img.shields.io/badge/TS-Typescript-blue) ![Javascript](https://img.shields.io/badge/JS-Javascript-yellow) ![React](https://img.shields.io/badge/React-js-blue) ![Asp](https://img.shields.io/badge/.NET-Asp.Net-512BD4) ![SQL](https://img.shields.io/badge/SQL-Server-42a4f5)
+![Python](https://img.shields.io/badge/Py-Python-yellow)
+![Power BI](https://img.shields.io/badge/BI-PowerBI-yellow)
+![SQL](https://img.shields.io/badge/SQL-Server-42a4f5)\
+![CSharp](https://img.shields.io/badge/C%23-CSharp-512BD4) ![Typescript](https://img.shields.io/badge/TS-Typescript-blue) ![Asp](https://img.shields.io/badge/.NET-Asp.Net-512BD4)  
+![Javascript](https://img.shields.io/badge/JS-Javascript-yellow)
 
-## Find Me
-victoralonsocghnd@gmail.com
+## Find Me Here
+[My Email](victoralonsocghnd@gmail.comm)  
+[Linkedin](https://www.linkedin.com/in/victorgonzalespro/)
 
 
 <!--
