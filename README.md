@@ -16,9 +16,9 @@
 
 ## Find Me Here
 <p align="left">
-<a href="mailto:victoralonsocghnd@gmail.com " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="victor gonzales" height="30" width="40" />victoralonsocghnd@gmail.com</a>  
+<a href="mailto:victoralonsocghnd@gmail.com " target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="victor gonzales" height="30" width="40" />victoralonsocghnd@gmail.com</a>  
   
-<a href="https://www.linkedin.com/in/victorgonzalespro/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="victor gonzales" height="30" width="40" />linkedin</a>
+<a href="linkedin.com/in/victorgonzalespro" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="victor gonzales" height="30" width="40" />linkedin</a>
  <p/>
 
 <!--
