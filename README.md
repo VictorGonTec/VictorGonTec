@@ -10,14 +10,16 @@
 ![CSharp](https://img.shields.io/badge/C%23-CSharp-512BD4) ![Typescript](https://img.shields.io/badge/TS-Typescript-blue) ![Asp](https://img.shields.io/badge/.NET-Asp.Net-512BD4)  
 ![Javascript](https://img.shields.io/badge/JS-Javascript-yellow)
 
-## Find Me Here
-[My Email](victoralonsocghnd@gmail.comm)  
-[Linkedin](https://www.linkedin.com/in/victorgonzalespro/)
-
 ## My Indie Game Development Portfolio
 [<img src="https://github.com/VictorGonTec/FotosGithub/blob/main/githubImages/imagen2.png" alt="deffendig room" width="350" height="300"/>](https://cgontec.itch.io/deffendingroom)
 [<img src="https://github.com/VictorGonTec/FotosGithub/blob/main/githubImages/robotScrashP1.png" alt="Robot Scrash" width="350" height="300"/>](https://cgontec.itch.io/robotscrash)
 
+## Find Me Here
+<p align="left">
+<a href="mailto:victoralonsocghnd@gmail.com " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="victor gonzales" height="30" width="40" />victoralonsocghnd@gmail.com</a>  
+  
+<a href="https://www.linkedin.com/in/victorgonzalespro/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="victor gonzales" height="30" width="40" />linkedin</a>
+ <p/>
 
 <!--
 **VictorGonTec/VictorGonTec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
